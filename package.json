@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "eslint": "^8.0.1",
+    "linebot": "^1.6.1",
+    "prettier": "^2.8.3"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0"
+  }
+}
